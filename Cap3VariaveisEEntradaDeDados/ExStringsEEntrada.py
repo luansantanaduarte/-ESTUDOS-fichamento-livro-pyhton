@@ -49,7 +49,7 @@ print("[%-3d]" % x) # Formata o número com um espaço a direita (independente d
 valor = 5
 print("R$ %f" % valor) # Utilização do número decimal. 
 # Para personalizar a quantidade fazemos:
-print("R$ %.2f" % valor) # ? Sintaze -> "%.(número de casas)f"
+print("R$ %.2f" % valor) # ? Sintaxe -> "%.(número de casas)f"
 
 # Podemos mudar mais de um valor.
 print("%s tem %d anos e apenas R$ %.2f no bolso." % ("Lucas", 22, 51.34))

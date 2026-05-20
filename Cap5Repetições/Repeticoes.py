@@ -30,3 +30,5 @@
 #  if x % 2 == 0:
 #    print(x)
 #  x += 1
+
+# ! Acumuladores - São váriaveis incializadas cujas somas posteriores são diferentes de 1, indicando posteriormente uma soma de valores após um determinado número de repetições.
