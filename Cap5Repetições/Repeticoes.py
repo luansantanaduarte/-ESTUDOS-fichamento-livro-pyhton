@@ -32,3 +32,6 @@
 #  x += 1
 
 # ! Acumuladores - São váriaveis incializadas cujas somas posteriores são diferentes de 1, indicando posteriormente uma soma de valores após um determinado número de repetições.
+
+# ! Interrupção de repetições -> Utilização da palavra reservada "break" que interrompe o laço.
+  # while True é uma estrutra que faz um laço se repetir intermitentemente a menos que um break seja introduzido
