@@ -28,6 +28,9 @@ Aqui você vai encontrar:
 - [x] Tipos de dados
 - [x] Condicionais
 - [x] Laços
+- [] Listas
+- [] Strings
+- [] Matrizes
 - [ ] Funções
 
 ## 📂 Estrutura do repositório
@@ -38,6 +41,8 @@ O repositório está organizado por capítulos, cada um com exercícios de conso
 - Capítulo 3 - Váriaveis e tipos de dados
 - Capítulo 4 - Condições
 - Capítulo 5 - Repetições
+- Capítulo 6 - Listas
+- Capítulo 7 - Strings
 
 ## 🛠️ Tecnologias
 
